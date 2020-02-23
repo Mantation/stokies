@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20344513862",
+    "firebase_url": "https://stokies-43138.firebaseio.com",
+    "project_id": "stokies-43138",
+    "storage_bucket": "stokies-43138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20344513862:android:a5d140e673aee3810d7147",
+        "android_client_info": {
+          "package_name": "io.eyec.bombo.stokies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20344513862-8600ti84elfajdo3rh6m8h68i97okc9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.eyec.bombo.stokies",
+            "certificate_hash": "08939cd7b1fe8947b0908281bca6d02b14708f36"
+          }
+        },
+        {
+          "client_id": "20344513862-adnr521libqbaniv7bviqracc227gin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvHsC_BxE8swKVABvFqOsGLpM-Ajz7Wmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20344513862-adnr521libqbaniv7bviqracc227gin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
